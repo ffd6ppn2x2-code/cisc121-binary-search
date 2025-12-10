@@ -54,7 +54,7 @@ The user does not have to think about:
 - How many steps it takes.
 - The index calculations.
 
-**Algorithm in Plain Language**
+**Algorithm**
 
 1. Start with a sorted list and a target.
 2. Set `low` to the first index (0) and `high` to the last index (`len(list) - 1`).
