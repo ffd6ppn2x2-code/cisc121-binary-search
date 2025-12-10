@@ -81,8 +81,6 @@ Below is an example of the tests passing in the notebook / app:
 
 ## Hugging Face Link
 
-Live demo (if deployed):
-
 - [Binary Search Visualizer – Hugging Face Space](PASTE_LINK_HERE)
 
 ## Author & Acknowledgment
