@@ -81,7 +81,8 @@ Below is an example of the tests passing in the notebook / app:
 
 ## Hugging Face Link
 
-- [Binary Search Visualizer – Hugging Face Space](PASTE_LINK_HERE)
+You can try the app here:  
+[Binary Search Visualizer – Hugging Face Space](https://huggingface.co/spaces/studentAhmed/binary-search-visualizer)
 
 ## Author & Acknowledgment
 
